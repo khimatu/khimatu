@@ -2,7 +2,6 @@
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning  software engineering @ alx
 - 📫 How to reach me:
-- twitter @faz_y
 - Instagram khimatu _
 
 
